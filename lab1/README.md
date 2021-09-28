@@ -5,6 +5,7 @@
 - JDK 11.0.8 (server)
 - Apache Spark 2.4.5
 
+Задание https://gitlab.com/ssau.tk.courses/big_data/-/blob/master/L1%20-%20Introduction%20to%20Apache%20Spark/L1_Apache_Spark.md.
 
 Было произведено развёртывание MapR с помощью Docker в WSL2 Ubuntu 18.04 с помощью следующих команд.
 ```shell 
