@@ -43,7 +43,7 @@ yarn application -list -appStates ALL
 программой:
 ![](images/report.jpg)
 
-Таким образом, можно сделать вывод, что формат Apache Parquet не гарантирует порядок строк и столбцов dataframe'ов,
+Таким образом, можно сделать вывод, что формат Apache Parquet так же, как и SQL, не гарантирует порядок строк и столбцов фреймов,
 что подтверждается документацией: https://spark.apache.org/docs/latest/sql-data-sources-parquet.html.
 
 Чтобы получить отчёт в нужном виде, можно воспользоваться, например, методом sort:
