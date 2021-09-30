@@ -1,7 +1,9 @@
 # Lab #3 - Stream processing with Apache Flink - for Big Data course
 - Scala 2.12.9
-- JDK 1.8.0_302 (local)
-Задание https://gitlab.com/ssau.tk.courses/big_data/-/tree/master/L3%20-%20Stream%20processing%20with%20Apache%20Flink.
+- JDK 1.8.0_302 
+
+## Задание 
+https://gitlab.com/ssau.tk.courses/big_data/-/tree/master/L3%20-%20Stream%20processing%20with%20Apache%20Flink.
 
 ## Решения 
 Задания были выполнены на языке Scala.
